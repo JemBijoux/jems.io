@@ -1,0 +1,10 @@
+{
+  "name": "jems.io",
+  "version": "0.0.1",
+  "description": "Personal website and dev blog for JemBijoux",
+  "main": "index.js",
+  "repository": "git@github.com:JemBijoux/jems.io.git",
+  "author": "Jem Bezooyen <jem@hipmedia.ca>",
+  "license": "UNLICENSED",
+  "private": true
+}
