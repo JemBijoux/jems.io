@@ -1,10 +1,27 @@
 {
   "name": "jems.io",
-  "version": "0.0.1",
   "description": "Personal website and dev blog for JemBijoux",
-  "main": "index.js",
   "repository": "git@github.com:JemBijoux/jems.io.git",
   "author": "Jem Bezooyen <jem@hipmedia.ca>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "emotion": "^9.2.8",
+    "emotion-server": "^9.2.8",
+    "gatsby": "^1.9.277",
+    "gatsby-link": "^1.6.46",
+    "gatsby-plugin-emotion": "^1.1.17",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-emotion": "^9.2.8"
+  },
+  "scripts": {
+    "gatsby": "gatsby"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "gray-matter": "^4.0.1"
+  }
 }
