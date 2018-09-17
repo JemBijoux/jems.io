@@ -18,10 +18,12 @@
     "react-emotion": "^9.2.8"
   },
   "scripts": {
-    "gatsby": "gatsby"
+    "gatsby": "gatsby",
+    "test": "jest"
   },
   "devDependencies": {
+    "gray-matter": "^4.0.1",
     "jest": "^23.6.0",
-    "gray-matter": "^4.0.1"
+    "recursive-readdir": "^2.2.2"
   }
 }
